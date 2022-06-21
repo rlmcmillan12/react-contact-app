@@ -1,0 +1,10 @@
+.contactCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3px;
+}
+/* .contactCard > div {
+    display: flex;
+    flex-direction: column;
+} */
